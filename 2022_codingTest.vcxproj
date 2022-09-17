@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="EvenOdd.c" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="약수.c" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
