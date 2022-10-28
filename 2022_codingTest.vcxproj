@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="empty_time.c" />
     <ClCompile Include="EvenOdd.c" />
   </ItemGroup>
   <ItemGroup>
