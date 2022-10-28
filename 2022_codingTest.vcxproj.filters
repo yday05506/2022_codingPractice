@@ -30,6 +30,9 @@
     <ClCompile Include="playerScore.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ndayMarket.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="약수.c">
