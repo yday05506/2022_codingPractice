@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="empty_time.c" />
     <ClCompile Include="EvenOdd.c" />
+    <ClCompile Include="fine.c" />
     <ClCompile Include="ladder_game.c" />
   </ItemGroup>
   <ItemGroup>
