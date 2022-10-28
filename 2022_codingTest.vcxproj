@@ -143,6 +143,7 @@
     <ClCompile Include="EvenOdd.c" />
     <ClCompile Include="fine.c" />
     <ClCompile Include="ladder_game.c" />
+    <ClCompile Include="playerScore.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="약수.c" />
