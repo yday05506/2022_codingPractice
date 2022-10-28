@@ -21,6 +21,9 @@
     <ClCompile Include="empty_time.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ladder_game.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="약수.c">
