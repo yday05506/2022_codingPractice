@@ -145,6 +145,7 @@
     <ClCompile Include="ladder_game.c" />
     <ClCompile Include="ndayMarket.c" />
     <ClCompile Include="playerScore.c" />
+    <ClCompile Include="sqrt.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="약수.c" />
