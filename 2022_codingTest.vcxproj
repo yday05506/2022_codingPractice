@@ -148,6 +148,7 @@
     <ClCompile Include="ndayMarket.c" />
     <ClCompile Include="playerScore.c" />
     <ClCompile Include="sqrt.c" />
+    <ClCompile Include="testRank.c" />
     <ClCompile Include="water.c" />
   </ItemGroup>
   <ItemGroup>

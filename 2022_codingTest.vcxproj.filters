@@ -45,6 +45,9 @@
     <ClCompile Include="water.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="testRank.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="약수.c">
