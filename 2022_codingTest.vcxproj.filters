@@ -42,6 +42,9 @@
     <ClCompile Include="counter.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="water.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="약수.c">
