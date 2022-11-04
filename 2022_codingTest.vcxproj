@@ -145,6 +145,7 @@
     <ClCompile Include="EvenOdd.c" />
     <ClCompile Include="fine.c" />
     <ClCompile Include="ladder_game.c" />
+    <ClCompile Include="longestWork.c" />
     <ClCompile Include="ndayMarket.c" />
     <ClCompile Include="playerScore.c" />
     <ClCompile Include="sqrt.c" />
