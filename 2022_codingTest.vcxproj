@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="average70.c" />
     <ClCompile Include="empty_time.c" />
     <ClCompile Include="EvenOdd.c" />
     <ClCompile Include="fine.c" />
