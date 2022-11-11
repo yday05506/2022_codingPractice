@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="average70.c" />
+    <ClCompile Include="buyDeskChair.c" />
     <ClCompile Include="cards.c" />
     <ClCompile Include="correctPassword.c" />
     <ClCompile Include="counter.c" />
