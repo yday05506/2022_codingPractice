@@ -150,6 +150,7 @@
     <ClCompile Include="fine.c" />
     <ClCompile Include="ladder_game.c" />
     <ClCompile Include="longestWork.c" />
+    <ClCompile Include="minusReverseNum.c" />
     <ClCompile Include="ndayMarket.c" />
     <ClCompile Include="paper.c" />
     <ClCompile Include="playerScore.c" />
