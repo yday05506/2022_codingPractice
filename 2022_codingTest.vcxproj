@@ -154,6 +154,7 @@
     <ClCompile Include="ndayMarket.c" />
     <ClCompile Include="paper.c" />
     <ClCompile Include="playerScore.c" />
+    <ClCompile Include="socksColor.c" />
     <ClCompile Include="sqrt.c" />
     <ClCompile Include="testRank.c" />
     <ClCompile Include="uniform.c" />
