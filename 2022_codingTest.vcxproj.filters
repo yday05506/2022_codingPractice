@@ -57,6 +57,9 @@
     <ClCompile Include="paper.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="uniform.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="약수.c">
