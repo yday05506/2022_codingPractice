@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="appleBox.c" />
     <ClCompile Include="average70.c" />
     <ClCompile Include="buyDeskChair.c" />
     <ClCompile Include="cards.c" />
