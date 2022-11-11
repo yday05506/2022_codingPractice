@@ -66,6 +66,9 @@
     <ClCompile Include="emptyBottle.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="correctPassword.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="약수.c">

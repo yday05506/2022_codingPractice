@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="average70.c" />
     <ClCompile Include="cards.c" />
+    <ClCompile Include="correctPassword.c" />
     <ClCompile Include="counter.c" />
     <ClCompile Include="emptyBottle.c" />
     <ClCompile Include="empty_time.c" />
