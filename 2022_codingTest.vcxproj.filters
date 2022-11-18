@@ -81,6 +81,9 @@
     <ClCompile Include="appleBox.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="kGrade.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="약수.c">

@@ -149,6 +149,7 @@
     <ClCompile Include="empty_time.c" />
     <ClCompile Include="EvenOdd.c" />
     <ClCompile Include="fine.c" />
+    <ClCompile Include="kGrade.c" />
     <ClCompile Include="ladder_game.c" />
     <ClCompile Include="longestWork.c" />
     <ClCompile Include="minusReverseNum.c" />
